@@ -1,0 +1,9 @@
+# Python working directories
+__pycache__
+*.egg-info
+.pytest_cache
+build
+dist
+
+# Local working stuff
+.vscode
